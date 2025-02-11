@@ -4,8 +4,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">Aspiring Tech Consultant based in the UK.<p>
-<p align="center">Passionate about learning, self-improvement, and leveraging technology to solve real-world problems.<p>
-<p align="center">Focused on creating affordable, innovative software solutions that make a meaningful impact.<p>
+<p align="center">Passionate about learning, self-improvement, and utilising technology to solve real-world problems.<p>
+<p align="center">Focused on creating affordable software solutions that make a meaningful impact.<p>
 
 <h2 align="center">🔧 Languages and Tools:</h2>
 <p align="center">

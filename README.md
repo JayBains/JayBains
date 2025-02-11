@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Jay</h1>
-<p align="center">I'm an aspiring Tech Consultant from the UK.<p>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=2000&center=true&vCenter=true&width=250&height=20&lines=Jay+Bains;Full-Stack+Developer" alt="Typing SVG" /></a>
+</h1>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🚀 About Me</h2>
+<p align="center">An aspiring Tech Consultant based in the UK.<p>
+<p align="center">Passionate about learning and self-improvement.<p>
+<p align="center">Hoping to create affordable software solutions to real-world problems.<p>
+
+<h2 align="center">🔧 Languages and Tools:</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 

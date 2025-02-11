@@ -31,7 +31,7 @@
 
 <h2 align="center">Connect with Me:</h2>
 <p align="center">
-<a href="https://github.com/JayBains" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/jaysbains/" target="_blank" rel="noreferrer" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://jaybains.github.io/portfolio/" rel="noreferrer" style="text-decoration: none;">

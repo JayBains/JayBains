@@ -3,9 +3,9 @@
 </h1>
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">An aspiring Tech Consultant based in the UK.<p>
-<p align="center">Passionate about learning and self-improvement.<p>
-<p align="center">Hoping to create affordable software solutions to real-world problems.<p>
+<p align="center">Aspiring Tech Consultant based in the UK.<p>
+<p align="center">Passionate about learning, self-improvement, and leveraging technology to solve real-world problems.<p>
+<p align="center">Focused on creating affordable, innovative software solutions that make a meaningful impact.<p>
 
 <h2 align="center">🔧 Languages and Tools:</h2>
 <p align="center">
@@ -21,12 +21,15 @@
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </p>
@@ -36,11 +39,7 @@
 </div>
 
 <h2 align="center">Connect with Me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/jaysbains/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-</a>
+<p align="center"> <a href="https://www.linkedin.com/in/jaysbains/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
 <a href="https://jaybains.github.io/portfolio/" rel="noreferrer" style="text-decoration: none;">
-<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
-</a>
-</p>
+<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/> </a> </p>

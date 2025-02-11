@@ -7,7 +7,7 @@
 <p align="center">Passionate about learning, self-improvement, and utilising technology to solve real-world problems.<p>
 <p align="center">Focused on creating affordable software solutions that make a meaningful impact.<p>
 
-<h2 align="center">🔧 Languages and Tools:</h2>
+<h2 align="center">🔧 Languages and Tools</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaybains&show_icons=true&locale=en&layout=compact&theme=dark" alt="jaybains" /></p>
 </div>
 
-<h2 align="center">Connect with Me:</h2>
+<h2 align="center">📬 Contact Me</h2>
 <p align="center"> <a href="https://www.linkedin.com/in/jaysbains/" target="_blank" rel="noreferrer" style="text-decoration: none;">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
 <a href="https://jaybains.github.io/portfolio/" rel="noreferrer" style="text-decoration: none;">

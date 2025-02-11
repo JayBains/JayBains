@@ -1,6 +1,6 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=2000&center=true&vCenter=true&width=250&height=20&lines=Jay+Bains;Full-Stack+Developer" alt="Typing SVG" /></a>
-</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=2000&center=true&vCenter=true&width=370&height=30&lines=Jay+Bains;Full-Stack+Developer" alt="Typing SVG" /></a>
+</div>
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">Aspiring Tech Consultant based in the UK.<p>

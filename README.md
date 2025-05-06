@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">Aspiring Tech Consultant based in the UK.<p>
+<p align="center">Software developer based in the UK.<p>
 <p align="center">Passionate about learning, self-improvement, and utilising technology to solve real-world problems.<p>
 <p align="center">Focused on creating affordable software solutions that make a meaningful impact.<p>
 

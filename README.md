@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=2000&center=true&vCenter=true&width=370&height=30&lines=Jay+Bains;Tech+Consultant" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1200&pause=2000&center=true&vCenter=true&width=370&height=30&lines=Jay+Bains;Software+Developer" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center">🚀 About Me</h2>
@@ -37,9 +37,3 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaybains&show_icons=true&locale=en&layout=compact&theme=dark" alt="jaybains" /></p>
 </div>
-
-<h2 align="center">📬 Contact Me</h2>
-<p align="center"> <a href="https://www.linkedin.com/in/jaysbains/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>
-<a href="https://jaybains.github.io/portfolio/" rel="noreferrer" style="text-decoration: none;">
-<img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/> </a> </p>
